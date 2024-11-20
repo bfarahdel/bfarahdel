@@ -26,7 +26,7 @@ Here are some ideas to get you begined:
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bfarahdel&theme=dark&show_icons=true&count_private=true&rank_icon=percentile" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bfarahdel&theme=dark&show_icons=true&count_private=true&rank_icon=github" />
   <br></br>
   <img  title="GitHub Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bfarahdel&theme=tokyonight&hide_border=false" /> 
 </td>
